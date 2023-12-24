@@ -1,4 +1,4 @@
-## **Pytest Decoratorları**
+# **Pytest Decoratorları**
 
 'Pytest', Python dilinde yazılmış bir test çerçevesi (framework)'dir. Bu çerçeve test alanında çalışma yapanlara yazdıkları testleri özelleştirme ve kolaylık sunar. Decorator'lar aracılığıyla test fonksiyonlarının davranışlarını şekillendirebilir. İşte 'pytest' kütüphanesinde kullanılan bazı temel decorator'lar:
 
